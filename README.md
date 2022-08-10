@@ -14,7 +14,7 @@ RuAdapt has paragraph and sentence level alignments. The original and adapted te
 
 ## RaaFL levels
 
-There is a level specified for each paragraph or sentence pair. This is the level of Russian language acquisition for which the target paragraph has been adapted. For some pairs, only an approximate level (like B1-B2) is specified. 
+There is a level specified for each paragraph or sentence pair. This is the level of Russian language acquisition for which the target paragraph has been adapted. For some pairs, only an approximate level (like B1-B2) is specified. The exact proportions of the adapted texts for each level are given in the descriptions of the subcorpora.  
 
 ### Publications
 
@@ -34,11 +34,11 @@ RuAdapt состоит из текстов, адаптированных для 
 
 ## Выравнивания
 
-RuAdapt выравнен на уровне параграфов и предложений. Оригинальные и адаптированные тексты были выравнены автоматически. Мы использовали два элайнера: Bleualign (https://github.com/rsennrich/Bleualign) и CATS (https://github.com/neosyon/SimpTextAlign). Обе версии можно найти в репозитории. Для CATS мы также сохранили значения косинусного подобия для каждой пары абзацев.
+RuAdapt выравнен на уровне параграфов и предложений. Оригинальные и адаптированные тексты были выравнены автоматически. Мы использовали два элайнера: Bleualign (https://github.com/rsennrich/Bleualign) и CATS (https://github.com/neosyon/SimpTextAlign). Обе версии можно найти в репозитории. Для CATS мы также сохранили значения косинусного подобия для каждой пары абзацев.  
 
 ## Уровни РКИ
 
-Для каждой пары параграфов или предложений указан уровень. Это уровень владения русским как иностранным, для которого был адаптирован результирующий абзац. Для некоторых пар указан только приблизительный уровень (например, B1-B2). 
+Для каждой пары параграфов или предложений указан уровень. Это уровень владения русским как иностранным, для которого был адаптирован результирующий абзац. Для некоторых пар указан только приблизительный уровень (например, B1-B2). Точные пропорции адаптированных текстов для каждого уровня указаны в описаниях к подкорпусам.  
 
 ### Публикации
 
