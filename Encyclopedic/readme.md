@@ -29,6 +29,8 @@ Since some articles exist in three levels of adaptation, namely A, B and C, they
 | lsslovar_C_to_B_par  | 239   | 143440                                      | 122419                                           | 2500           |
 | lsslovar_C_to_B_sent | 239   | 131925                                      | 122302                                           | 8282           |
 
+Length is the number of paragraph or sentence pairs depending on the file contents / Длиной является количество пар предложений или параграфов в зависимости от содержания файла.  
+
 ---------
 
 
