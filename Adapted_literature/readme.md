@@ -27,6 +27,7 @@ Texts / Тексты: 93
 | zlatoust_paragraph_aligned_with_bleualign | 367122                                       | 270277                                            | 5966           |
 | zlatoust_paragraph_aligned_with_CATS      | 620563                                       | 287358                                            | 7614           |
 | zlatoust_sentence_aligned_with_CATS       | 376432                                       | 285190                                            | 24232          |
+
 Length is the number of paragraph or sentence pairs depending on the file contents / Длиной является количество пар предложений или параграфов в завистимости от содержания файла
 
 ![](https://raw.githubusercontent.com/Digital-Pushkin-Lab/RuAdapt/main/Adapted_literature/levels.png)
