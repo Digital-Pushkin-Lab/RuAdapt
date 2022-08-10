@@ -22,11 +22,12 @@ Bleualign, CATS
 
 Texts / Тексты: 93
 
-| File / Файл                               | Original tokens / Токены в исходных текстах  | Adapted tokens / Токены в адаптированных текстах |
-|-------------------------------------------|----------------------------------------------|--------------------------------------------------|
-| zlatoust_paragraph_aligned_with_bleualign | 367122                                       | 270277                                           |
-| zlatoust_paragraph_aligned_with_CATS      | 620563                                       | 287358                                           |
-| zlatoust_sentence_aligned_with_CATS       | 376432                                       | 285190                                           |
+|                File / Файл                | Original tokens /  Токены в исходных текстах | Adapted tokens /  Токены в адаптированных текстах | Length / Длина |
+|:-----------------------------------------:|:--------------------------------------------:|:-------------------------------------------------:|----------------|
+| zlatoust_paragraph_aligned_with_bleualign | 367122                                       | 270277                                            | 5966           |
+| zlatoust_paragraph_aligned_with_CATS      | 620563                                       | 287358                                            | 7614           |
+| zlatoust_sentence_aligned_with_CATS       | 376432                                       | 285190                                            | 24232          |
+Length is the number of paragraph or sentence pairs depending on the file contents / Длиной является количество пар предложений или параграфов в завистимости от содержания файла
 
 ![](https://raw.githubusercontent.com/Digital-Pushkin-Lab/RuAdapt/main/Adapted_literature/levels.png)
 Data for this chart can be viewed by clicking "Get the data" [here](https://datawrapper.dwcdn.net/5XFKK/2/) / Данные для этого графика можно получить, кликнув "Get the data" [здесь](https://datawrapper.dwcdn.net/5XFKK/2/)  
