@@ -18,6 +18,19 @@ Since some articles exist in three levels of adaptation, namely A, B and C, they
 
 ---------
 
+## Subcorpus statistics / Статистика подкорпуса
+
+| File                 | Texts | Original tokens / Токены в исходных текстах | Adapted tokens / Токены в адаптированных текстах | Length / Длина |
+|----------------------|-------|---------------------------------------------|--------------------------------------------------|----------------|
+| lsslovar_B_to_A_par  | 58    | 29699                                       | 10978                                            | 508            |
+| lsslovar_B_to_A_sent | 58    | 14446                                       | 10972                                            | 994            |
+| lsslovar_C_to_A_par  | 58    | 34113                                       | 10981                                            | 509            |
+| lsslovar_C_to_A_sent | 58    | 15583                                       | 10976                                            | 995            |
+| lsslovar_C_to_B_par  | 239   | 143440                                      | 122419                                           | 2500           |
+| lsslovar_C_to_B_sent | 239   | 131925                                      | 122302                                           | 8282           |
+
+---------
+
 
 # Словарные статьи
 
