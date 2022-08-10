@@ -28,10 +28,10 @@ Texts / Тексты: 93
 | zlatoust_paragraph_aligned_with_CATS      | 620563                                       | 287358                                            | 7614           |
 | zlatoust_sentence_aligned_with_CATS       | 376432                                       | 285190                                            | 24232          |
 
-Length is the number of paragraph or sentence pairs depending on the file contents / Длиной является количество пар предложений или параграфов в завистимости от содержания файла
+Length is the number of paragraph or sentence pairs depending on the file contents / Длиной является количество пар предложений или параграфов в зависимости от содержания файла.
 
 ![](https://raw.githubusercontent.com/Digital-Pushkin-Lab/RuAdapt/main/Adapted_literature/levels.png)
-Data for this chart can be viewed by clicking "Get the data" [here](https://datawrapper.dwcdn.net/5XFKK/2/) / Данные для этого графика можно получить, кликнув "Get the data" [здесь](https://datawrapper.dwcdn.net/5XFKK/2/)  
+Data for this chart can be viewed by clicking "Get the data" [here](https://datawrapper.dwcdn.net/5XFKK/2/) / Данные для этого графика можно получить, кликнув "Get the data" [здесь](https://datawrapper.dwcdn.net/5XFKK/2/).  
 
 ---------
 
