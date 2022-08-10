@@ -12,9 +12,20 @@ Paragraph, sentence
 
 CATS
 
-
 ---------
 
+## Subcorpus statistics / Статистика подкорпуса
+
+Texts / Тексты: 9  
+
+| File               | Original tokens / Токены в исходных текстах | Adapted tokens / Токены в адаптированных текстах | Length / Длина |
+|--------------------|---------------------------------------------|--------------------------------------------------|----------------|
+| df_fairytales_par  | 7093                                        | 4652                                             | 134            |
+| df_fairytales_sent | 5775                                        | 4642                                             | 416            |
+
+Length is the number of paragraph or sentence pairs depending on the file contents / Длиной является количество пар предложений или параграфов в зависимости от содержания файла.  
+
+---------
 
 # Русские сказки
 
