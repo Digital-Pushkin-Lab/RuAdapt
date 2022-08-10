@@ -2,7 +2,7 @@
 
 ## Contents
 
-This subcorpus consists of entries of Multimedia Linguistic and Cultural Dictionary created by researchers at Pushkin State Russian Language Institute. The dictionary entries describe various elements of Russian culture as well as linguistic, geographical and other phenomena. Most entries are adapted into multiple levels of Russian language acquisition (A, B and C). The dictionary can be found in open access at its own website: ls.pushkininstitute.ru  
+This subcorpus consists of entries of [Multimedia Linguistic and Cultural Dictionary created by researchers at Pushkin State Russian Language Institute](https://ls.pushkininstitute.ru/lsslovar/index.php?title=%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%C2%AB%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%C2%BB:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5). The dictionary entries describe various elements of Russian culture as well as linguistic, geographical and other phenomena. Most entries are adapted into multiple levels of Russian language acquisition (A, B and C). The dictionary can be found in open access at its own website: ls.pushkininstitute.ru  
 
 ## Alignment levels
 
@@ -38,7 +38,7 @@ Length is the number of paragraph or sentence pairs depending on the file conten
 
 ## Содержание
 
-Данный подкорпус включает статьи из Мультимедийного лингвострановедческого словаря, созданного исследователями ГосИРЯ имени Пушкина. Статьи описывают различные элементы русской культуры, а также языковые, географические и другие феномены. Большинство статей адаптировано для нескольких уровней освоения языка (А, В и С). Словарь находится в открытом доступе на специальном сайте: ls.pushkininstitute.ru  
+Данный подкорпус включает статьи из [Мультимедийного лингвострановедческого словаря, созданного исследователями ГосИРЯ имени Пушкина](https://ls.pushkininstitute.ru/lsslovar/index.php?title=%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%C2%AB%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%C2%BB:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5). Статьи описывают различные элементы русской культуры, а также языковые, географические и другие феномены. Большинство статей адаптировано для нескольких уровней освоения языка (А, В и С). Словарь находится в открытом доступе на специальном сайте: ls.pushkininstitute.ru  
 
 ## Уровни выравнивания
 
