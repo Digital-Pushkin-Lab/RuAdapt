@@ -12,7 +12,7 @@ RuAdapt consists of texts adapted for learners of Russian as a Foreign Language 
 
 RuAdapt has paragraph and sentence level alignments. The original and adapted texts were aligned automatically. We used two aligners: Bleualign (https://github.com/rsennrich/Bleualign) and CATS (https://github.com/neosyon/SimpTextAlign). Both versions can be found in the repository. For CATS, we also preserved the cousine similarity scores for each paragraph pair.
 
-## RaaFL levels
+## CEFR levels
 
 There is a level specified for each paragraph or sentence pair. This is the level of Russian language acquisition for which the target paragraph has been adapted. For some pairs, only an approximate level (like B1-B2) is specified. The exact proportions of the adapted texts for each level are given in the descriptions of the subcorpora.  
 
@@ -21,6 +21,28 @@ There is a level specified for each paragraph or sentence pair. This is the leve
 Dmitrieva, A., Laposhina, A., & Lebedeva, M. (2021, June). A quantitative study of simplification strategies in adapted texts for L2 learners of Russian. In Proceedings of the International Conference "Dialogue" (pp. 191-203). URL: http://www.dialog-21.ru/media/5504/dmitrievaapluslaposhinaapluslebedevam099.pdf  
 
 Dmitrieva, A., & Tiedemann, J. (2021, April). Creating an Aligned Russian Text Simplification Dataset from Language Learner Data. In Proceedings of the 8th Workshop on Balto-Slavic Natural Language Processing (pp. 73-79). URL: https://www.aclweb.org/anthology/2021.bsnlp-1.8/  
+
+---------
+
+## Dataset statistics / Статистика датасета
+
+### Paragraph-aligned version / Пары параграфов  
+
+| Subcorpus / Подкорпус | Texts / Тексты | Original tokens / Токены в исходных текстах | Adapted tokens / Токены в адаптированных текстах | Paragraphs / Параграфы |
+|-----------------------|----------------|---------------------------------------------|--------------------------------------------------|----------------|
+| Adapted literature    |             93 |                                      620563 |                                           287358 |           7614 |
+| Encyclopedic texts    |            355 |                                      207252 |                                           144378 |           3517 |
+| Fairytales            |              9 |                                        7093 |                                             4652 |            134 |
+
+### Sentence-aligned version / Пары предложений 
+
+| Subcorpus / Подкорпус | Texts / Тексты | Original tokens / Токены в исходных текстах | Adapted tokens / Токены в адаптированных текстах | Sentences / Предложения |
+|-----------------------|----------------|---------------------------------------------|--------------------------------------------------|----------------|
+| Adapted literature    |             93 |                                      376432 |                                           285190 |          24232 |
+| Encyclopedic texts    |            355 |                                      161954 |                                           144250 |          10271 |
+| Fairytales            |              9 |                                        5775 |                                             4642 |            416 |
+
+More detailed statistics can be found on the subcorpora pages / С более подробной статистикой можно ознакомиться на страницах подкорпусов.
 
 ---------
 
